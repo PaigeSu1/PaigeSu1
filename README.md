@@ -9,15 +9,11 @@
       <img src="https://img.shields.io/badge/GitHub-PaigeSu1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
     </a>
 
-    <!-- To add in LinkenEN Link IN later 
     
-    <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-     -->
     
   </p>
 </div> 
+<!-- To add in LinkenEN Link IN later above with similar layout to how the github one was made -->
 
   I am a Senior Computer Science Major at
     Truman State University. I'm currently interested in Web Development and
