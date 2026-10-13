@@ -9,11 +9,12 @@
       <img src="https://img.shields.io/badge/GitHub-PaigeSu1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
     </a>
 
-    <!-- To add in LinkenEN Link IN later --> 
+    <!-- To add in LinkenEN Link IN later 
+    
     <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
-
+     -->
     
   </p>
 </div> 
@@ -31,6 +32,94 @@ Currently working as a Computer Science Teaching Assistant, helping and teaching
 Technologies & Tools 
 
 Languages 
+
+<!-- Area to fill in projects that are very much worth showing off and being shown on the front page --> 
+
+<!-- 
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+-->
+
+<!-- 
+### 🌱 Plantry -->
+
+<!-- TODO: Replace with a screenshot when ready -->
+<!-- ![Plantry Screenshot](assets/plantry-preview.png) -->
+
+<!-- 
+A pantry management web app with barcode scanning, OCR-based item entry, and inventory tracking.
+
+**Tech:** JavaScript, HTML, CSS, ZXing, Tesseract.js
+
+[Live Demo](YOUR_PLANTRY_DEMO_URL) · [Source Code](YOUR_PLANTRY_GITHUB_URL)
+
+**Status:** 🚧 In Development
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📊 Data Science Project
+
+--> 
+<!-- TODO: Add project screenshot or visualization -->
+
+<!-- 
+A data analysis and machine learning project exploring patterns in real-world or academic datasets.
+
+**Tech:** R, Python, Statistical Modeling
+
+[Project Details](YOUR_DATA_PROJECT_URL)
+
+**Status:** 📝 Documentation Coming Soon
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🗄️ Database Application
+--> 
+
+<!-- TODO: Add database diagram or application screenshot -->
+
+<!--
+A database project demonstrating relational design, SQL queries, joins, and data management.
+
+**Tech:** MySQL, SQL
+
+[Source Code](YOUR_DATABASE_PROJECT_URL)
+
+**Status:** 🚧 README Coming Soon
+
+    </td>
+    <td width="50%" valign="top">
+    
+### ✨ Future Project
+
+--> 
+
+<!-- TODO: Add project name, screenshot, and description -->
+<!-- 
+A placeholder for a future application, research project, or open-source contribution.
+
+**Tech:** To be added
+
+[Project Link](YOUR_FUTURE_PROJECT_URL)
+
+**Status:** 💡 Planned
+
+    </td>
+  </tr>
+</table>
+--> 
+
 
 
 
