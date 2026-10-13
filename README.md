@@ -24,11 +24,6 @@
 
 Currently working as a Computer Science Teaching Assistant, helping and teaching students programming, debugging and OOP. 
 
-
-Technologies & Tools 
-
-Languages 
-
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -44,8 +39,6 @@ Languages
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
 
-
-https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff
 </div>
 
 
