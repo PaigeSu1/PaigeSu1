@@ -1,4 +1,15 @@
-## Hi I'm Paige 👋
+<div align="center">
+  
+# Hi I'm Paige 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2EAD73&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Developer;Data+Science+Enthusiast;Building+Plantry+%F0%9F%8C%B1" alt="Typing animation" />
+
+  <p>
+    <a href="https://github.com/PaigeSu1">
+      <img src="https://img.shields.io/badge/GitHub-PaigeSu1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+  </p>
+</div> 
 
   I am a Senior Computer Science Major at
     Truman State University. I'm currently interested in Web Development and
@@ -10,9 +21,9 @@
 Currently working as a Computer Science Teaching Assistant, helping and teaching students programming, debugging and OOP. 
 
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div> 
+Technologies & Tools 
+
+Languages 
 
 
 
